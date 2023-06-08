@@ -1,0 +1,15 @@
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example04_Div\bin\Debug\net6.0\Example04_Div.exe
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example04_Div\bin\Debug\net6.0\Example04_Div.deps.json
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example04_Div\bin\Debug\net6.0\Example04_Div.runtimeconfig.json
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example04_Div\bin\Debug\net6.0\Example04_Div.dll
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example04_Div\bin\Debug\net6.0\Example04_Div.pdb
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example04_Div\obj\Debug\net6.0\Example04_Div.csproj.AssemblyReference.cache
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example04_Div\obj\Debug\net6.0\Example04_Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example04_Div\obj\Debug\net6.0\Example04_Div.AssemblyInfoInputs.cache
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example04_Div\obj\Debug\net6.0\Example04_Div.AssemblyInfo.cs
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example04_Div\obj\Debug\net6.0\Example04_Div.csproj.CoreCompileInputs.cache
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example04_Div\obj\Debug\net6.0\Example04_Div.dll
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example04_Div\obj\Debug\net6.0\refint\Example04_Div.dll
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example04_Div\obj\Debug\net6.0\Example04_Div.pdb
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example04_Div\obj\Debug\net6.0\Example04_Div.genruntimeconfig.cache
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example04_Div\obj\Debug\net6.0\ref\Example04_Div.dll
