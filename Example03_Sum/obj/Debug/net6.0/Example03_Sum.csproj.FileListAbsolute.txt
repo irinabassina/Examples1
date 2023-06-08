@@ -1,0 +1,15 @@
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example03_Sum\bin\Debug\net6.0\Example03_Sum.exe
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example03_Sum\bin\Debug\net6.0\Example03_Sum.deps.json
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example03_Sum\bin\Debug\net6.0\Example03_Sum.runtimeconfig.json
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example03_Sum\bin\Debug\net6.0\Example03_Sum.dll
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example03_Sum\bin\Debug\net6.0\Example03_Sum.pdb
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example03_Sum\obj\Debug\net6.0\Example03_Sum.csproj.AssemblyReference.cache
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example03_Sum\obj\Debug\net6.0\Example03_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example03_Sum\obj\Debug\net6.0\Example03_Sum.AssemblyInfoInputs.cache
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example03_Sum\obj\Debug\net6.0\Example03_Sum.AssemblyInfo.cs
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example03_Sum\obj\Debug\net6.0\Example03_Sum.csproj.CoreCompileInputs.cache
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example03_Sum\obj\Debug\net6.0\Example03_Sum.dll
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example03_Sum\obj\Debug\net6.0\refint\Example03_Sum.dll
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example03_Sum\obj\Debug\net6.0\Example03_Sum.pdb
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example03_Sum\obj\Debug\net6.0\Example03_Sum.genruntimeconfig.cache
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example03_Sum\obj\Debug\net6.0\ref\Example03_Sum.dll
