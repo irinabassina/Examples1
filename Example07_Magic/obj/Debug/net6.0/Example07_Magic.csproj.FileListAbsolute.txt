@@ -1,0 +1,15 @@
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example07_Magic\bin\Debug\net6.0\Example07_Magic.exe
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example07_Magic\bin\Debug\net6.0\Example07_Magic.deps.json
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example07_Magic\bin\Debug\net6.0\Example07_Magic.runtimeconfig.json
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example07_Magic\bin\Debug\net6.0\Example07_Magic.dll
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example07_Magic\bin\Debug\net6.0\Example07_Magic.pdb
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example07_Magic\obj\Debug\net6.0\Example07_Magic.csproj.AssemblyReference.cache
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example07_Magic\obj\Debug\net6.0\Example07_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example07_Magic\obj\Debug\net6.0\Example07_Magic.AssemblyInfoInputs.cache
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example07_Magic\obj\Debug\net6.0\Example07_Magic.AssemblyInfo.cs
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example07_Magic\obj\Debug\net6.0\Example07_Magic.csproj.CoreCompileInputs.cache
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example07_Magic\obj\Debug\net6.0\Example07_Magic.dll
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example07_Magic\obj\Debug\net6.0\refint\Example07_Magic.dll
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example07_Magic\obj\Debug\net6.0\Example07_Magic.pdb
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example07_Magic\obj\Debug\net6.0\Example07_Magic.genruntimeconfig.cache
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example07_Magic\obj\Debug\net6.0\ref\Example07_Magic.dll
