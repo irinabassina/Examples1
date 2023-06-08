@@ -1,0 +1,15 @@
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example02_HelloUser\bin\Debug\net6.0\Example02_HelloUser.exe
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example02_HelloUser\bin\Debug\net6.0\Example02_HelloUser.deps.json
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example02_HelloUser\bin\Debug\net6.0\Example02_HelloUser.runtimeconfig.json
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example02_HelloUser\bin\Debug\net6.0\Example02_HelloUser.dll
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example02_HelloUser\bin\Debug\net6.0\Example02_HelloUser.pdb
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example02_HelloUser\obj\Debug\net6.0\Example02_HelloUser.csproj.AssemblyReference.cache
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example02_HelloUser\obj\Debug\net6.0\Example02_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example02_HelloUser\obj\Debug\net6.0\Example02_HelloUser.AssemblyInfoInputs.cache
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example02_HelloUser\obj\Debug\net6.0\Example02_HelloUser.AssemblyInfo.cs
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example02_HelloUser\obj\Debug\net6.0\Example02_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example02_HelloUser\obj\Debug\net6.0\Example02_HelloUser.dll
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example02_HelloUser\obj\Debug\net6.0\refint\Example02_HelloUser.dll
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example02_HelloUser\obj\Debug\net6.0\Example02_HelloUser.pdb
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example02_HelloUser\obj\Debug\net6.0\Example02_HelloUser.genruntimeconfig.cache
+C:\Users\INi\Documents\GeekBrains2023\C#\Examples1\Example02_HelloUser\obj\Debug\net6.0\ref\Example02_HelloUser.dll
